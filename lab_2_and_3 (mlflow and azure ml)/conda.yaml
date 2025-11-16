@@ -1,0 +1,12 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.8.20
+- pip<=23.3.2
+- pip:
+  - mlflow==2.17.2
+  - cloudpickle==2.2.1
+  - tensorflow==2.12.0
+  - azureml-defaults
+name: mlflow-env
+

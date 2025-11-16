@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Ilyas/Projects/MLOps%20Labs/lab_2_and_3/mlruns/837008772635819892/models/m-e771ae6343024ec89615baa3623cb358/artifacts
+creation_timestamp: 1763209977053
+experiment_id: '837008772635819892'
+last_updated_timestamp: 1763209986669
+model_id: m-e771ae6343024ec89615baa3623cb358
+model_type: null
+name: model
+source_run_id: 76062af814404e11af648b4cca46e3a6
+status: 2
+status_message: null

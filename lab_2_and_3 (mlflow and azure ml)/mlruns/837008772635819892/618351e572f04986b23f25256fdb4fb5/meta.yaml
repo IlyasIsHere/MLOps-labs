@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Ilyas/Projects/MLOps%20Labs/lab_2_and_3/mlruns/837008772635819892/618351e572f04986b23f25256fdb4fb5/artifacts
+end_time: 1763209877238
+entry_point_name: ''
+experiment_id: '837008772635819892'
+lifecycle_stage: active
+run_id: 618351e572f04986b23f25256fdb4fb5
+run_name: dazzling-bug-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763209769626
+status: 3
+tags: []
+user_id: Ilyas

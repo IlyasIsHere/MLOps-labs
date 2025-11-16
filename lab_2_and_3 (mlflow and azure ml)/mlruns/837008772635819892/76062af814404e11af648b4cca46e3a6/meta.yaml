@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Ilyas/Projects/MLOps%20Labs/lab_2_and_3/mlruns/837008772635819892/76062af814404e11af648b4cca46e3a6/artifacts
+end_time: 1763209986690
+entry_point_name: ''
+experiment_id: '837008772635819892'
+lifecycle_stage: active
+run_id: 76062af814404e11af648b4cca46e3a6
+run_name: monumental-swan-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763209877247
+status: 3
+tags: []
+user_id: Ilyas
